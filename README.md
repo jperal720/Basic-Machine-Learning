@@ -2,7 +2,7 @@
 
 ##
 
-###Implementation of Basic Machine Learning Models:
+Implementation of Basic Machine Learning Models:
 * SupportVectorMachine
 * Multi-Layer Perceptron
 * Bagging Meta-Estimator
