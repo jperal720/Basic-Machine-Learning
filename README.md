@@ -8,3 +8,8 @@ Implementation of Basic Machine Learning Models:
 * Bagging Meta-Estimator
 * Forests of Randomized Trees
 * Linear Regression
+
+Needed Installations:
+* pip install sklearn
+* pip install pandas
+* pip install matplotlib
